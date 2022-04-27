@@ -1,7 +1,4 @@
 package MiniProject;
-
-import MiniProject.MayBanHangTuDong;
-
 import java.util.Scanner;
 public class TestMayBanHang {
     public static void main(String[] args){

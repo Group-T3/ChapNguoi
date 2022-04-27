@@ -9,12 +9,6 @@ public class MayBanHangTuDong {
     float giaSP;
     int qty;
     int soLuong;
-    public MayBanHangTuDong(){
-        idSP = 0;
-        tenSP = "San pham khong xac dinh";
-        giaSP = 0;
-        qty = 0;
-    }
     public MayBanHangTuDong(int idSP,String tenSP,float giaSP, int qty){
         this.idSP = idSP;
         this.tenSP = tenSP;
